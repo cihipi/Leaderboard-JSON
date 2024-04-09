@@ -60,5 +60,6 @@
     "centerlong":135,
     "name":"Japan",
     "id":46,
-    "zoom":6
+    "zoom":6,
+    "githubURL":"https://github.com/cihipi/Leaderboard-JSON/"
  }

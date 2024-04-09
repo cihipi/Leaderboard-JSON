@@ -32,11 +32,27 @@
                 { "n":50, "s":42, "w":-87, "e":-75.9 },
                 { "n":45.4, "s":45, "w":-75.9, "e":-75 }
             ]
+        },
+        {
+            "idx":4,
+            "name":"QC",
+            "bounds":[
+                { "n":50, "s":46, "w":-79.3, "e":-77 },
+                { "n":50, "s":45.4, "w":-77, "e":-68 }
+            ]
+        },
+        {
+            "idx":5,
+            "name":"East",
+            "bounds":[
+                { "n":50, "s":43, "w":-68, "e":-52 }
+            ]
         }
     ],
     "centerlat":49,
     "centerlong":-100,
     "name":"Canada",
     "id":14,
-    "zoom":4
+    "zoom":4,
+    "githubURL":"https://github.com/cihipi/Leaderboard-JSON/"
 }
