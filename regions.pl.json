@@ -1,0 +1,20 @@
+{
+	"region":[
+		{
+			"idx":0,
+			"name":"&#x1F9ED;",
+			"bounds":[
+				{ "n":-10.38, "s":-12.38, "w":111, "e":155.5},
+				{ "n":-10.38, "s":-45, "w":111, "e":113.7},
+				{ "n":-43, "s":-45, "w":111, "e":155.5},
+				{ "n":-10.38, "s":-45, "w":153.577, "e":155.5}
+			]
+		}
+	],
+	"centerlat":-27,
+	"centerlong":133,
+	"name":"United Kingdom",
+	"id":3,
+	"zoom":4,
+	"githubURL":"https://github.com/cihipi/Leaderboard-JSON/"
+}

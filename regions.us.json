@@ -1,0 +1,20 @@
+{
+	"region":[
+		{
+			"idx":0,
+			"name":"&#x1F9ED;",
+			"bounds":[
+				{ "n":60, "s":56, "w":-128, "e":-50 },
+				{ "n":43.1, "s":42, "w":-128, "e":-50 },
+				{ "n":60, "s":42, "w":-128, "e":-123.5 },
+				{ "n":60, "s":42, "w":-58, "e":-50 }
+			]
+		}
+	],
+	"centerlat":45,
+	"centerlong":-100,
+	"name":"USA",
+	"id":14,
+	"zoom":4,
+	"githubURL":"https://github.com/cihipi/Leaderboard-JSON/"
+}
