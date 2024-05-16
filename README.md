@@ -7,13 +7,15 @@ If you are reading this, hopefully it means you want to make an update or help b
 - If you are not strong on JSON, I suggest using a JSON editor such as https://jsoneditoronline.org/ This will help you find typos
 ### Detailed steps
 1. Find the country that you want to update. For example Japan is regions.*jp*.json
-2. Open the fiddle https://jsfiddle.net/leaderboard/tdLu1504/ You should see three tabs
+2. Open the fiddle https://jsfiddle.net/leaderboard/tdLu1504/ You should see three windows
 - HTML
 - CSS
 - JavaScript
-3. Select the javascript tab.
-4. Towards the top of the JavaScript page you should see a similar looking JSON file in red
-5. Copy the text over the top of the existing text
-6. Change the line var targetregion = 0 to match the idx number in the JSON file
-7. Click run
+You can change this to tabs by editting your settings in the top right hand corner.
+3. Select the javascript tab or window.
+4. Towards the top of the JavaScript page you should see a similar looking JSON file in red.
+5. Copy the text over the top of the existing text.
+6. Change the line var targetregion = 0 to match the idx number in the JSON file.
+7. Click run or press CTRL + Enter
+
 
