@@ -10,14 +10,14 @@
 				{ "n":-10.38, "s":-45, "w":153.577, "e":155.5}
 			]
 		},
-    {
+    	{
 			"idx":1,
 			"name":"SYD",
 			"bounds":[
 				{ "n":-33.55, "s":-34.1, "w":150.6, "e":151.5}
 			]
 		},
-    {
+    	{
 			"idx":2,
 			"name":"PER",
 			"bounds":[
@@ -26,10 +26,11 @@
 			]
 		}
 	],
-	"centerlat":-32,
-	"centerlong":116,
+	"centerlat":-26,
+	"centerlong":133,
 	"name":"Australia",
 	"id":3,
-	"zoom":9,
+	"zoom":4,
 	"githubURL":"https://github.com/cihipi/Leaderboard-JSON/"
+	
 }
