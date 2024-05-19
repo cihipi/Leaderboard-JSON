@@ -1,0 +1,17 @@
+{
+	"region":[
+		{
+			"idx":0,
+			"name":"&#x1F9ED;",
+			"bounds":[
+				{ "n":55, "s":53.5, "w":5, "e":14.5},
+				{ "n":55, "s":47, "w":13.6, "e":14.5},
+				{ "n":47.6, "s":47, "w":5, "e":14.5},
+				{ "n":55, "s":47, "w":5, "e":6.1}        
+			]
+		}
+	],
+	"name":"Germany",
+	"id":32,
+	"githubURL":"https://github.com/cihipi/Leaderboard-JSON/"
+}
