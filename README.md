@@ -22,5 +22,5 @@ You should see three windows
 ![Remove the existing JSON](./images/edithere.png)
 7. Change the line var targetregion = 0 to match the idx number in the JSON file.
 8. Click run or press CTRL + Enter. The google map should update.
-
+9. Editing the **n**orth, **s**outh, **e**ast or **w**est values will move the red rectangle. Events located inside the any of the rectangles will turn green. There isn't a known limit on the number of rectangles.
 
