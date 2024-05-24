@@ -39,11 +39,7 @@
 			]
 		}
 	],
-	"centerlat":40,
-	"centerlong":-100,
 	"name":"USA",
 	"id":98,
-	"zoom":4,
-	"githubURL":"https://github.com/cihipi/Leaderboard-JSON/"
-	
+	"githubURL":"https://github.com/cihipi/Leaderboard-JSON/"	
 }

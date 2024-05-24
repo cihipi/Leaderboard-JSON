@@ -1,0 +1,17 @@
+{
+	"region":[
+		{
+			"idx":0,
+			"name":"&#x1F9ED;",
+			"bounds": [
+				{ "n":56, "s":55.14, "w":-11, "e":-5 },
+				{ "n":56, "s":51, "w":-6.12, "e":-5 },
+				{ "n":51.6, "s":51, "w":-11, "e":-5 },
+				{ "n":56, "s":51, "w":-11, "e":-10 }
+			]
+		}
+	],
+	"name":"Ireland",
+	"id":42,
+	"githubURL":"https://github.com/cihipi/Leaderboard-JSON/"
+}

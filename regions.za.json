@@ -1,0 +1,17 @@
+{
+	"region":[
+		{
+			"idx":0,
+			"name":"&#x1F9ED;",
+			"bounds":[
+				{ "n":-22, "s":-23.1, "w":20, "e":33},
+				{ "n":-22, "s":-36, "w":32.2, "e":33},
+				{ "n":-34.8, "s":-36, "w":14, "e":33},
+				{ "n":-29, "s":-36, "w":14, "e":17.92}
+			]
+		}
+	],
+	"name":"South Africa",
+	"id":85,
+	"githubURL":"https://github.com/cihipi/Leaderboard-JSON/"
+}
