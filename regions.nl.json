@@ -1,0 +1,17 @@
+{
+	"region":[
+		{
+			"idx":0,
+			"name":"&#x1F9ED;",
+			"bounds": [
+				{ "n":54, "s":53.21, "w":3.5, "e":7.5 },
+				{ "n":54, "s":50.7, "w":6.8, "e":7.5 },
+				{ "n":50.85, "s":50.7, "w":3.5, "e":7.5 },
+				{ "n":54, "s":50.7, "w":3.5, "e":4.3 }        
+			]
+		}
+	],
+	"name":"The Netherlands",
+	"id":64,
+	"githubURL":"https://github.com/cihipi/Leaderboard-JSON/"
+}
