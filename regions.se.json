@@ -1,0 +1,17 @@
+{
+	"region":[
+		{
+			"idx":0,
+			"name":"&#x1F9ED;",
+			"bounds": [
+				{ "n":69, "s":63, "w":11, "e":23 },
+				{ "n":69, "s":55, "w":11, "e":12 },
+				{ "n":56, "s":55, "w":11, "e":23 },
+				{ "n":69, "s":55, "w":20, "e":23 }
+			]
+		}
+	],
+	"name":"Sweeden",
+	"id":88,
+	"githubURL":"https://github.com/cihipi/Leaderboard-JSON/"
+}
