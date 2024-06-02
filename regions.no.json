@@ -3,6 +3,7 @@
 		{
 			"idx":0,
 			"name":"&#x1F9ED;",
+			"description":"The most northern, eastern, southern, and western parkrun.",
 			"bounds": [
 				{ "n":70, "s":63, "w":4.5, "e":20 },
 				{ "n":70, "s":58, "w":4.5, "e":5.6 },

@@ -3,6 +3,7 @@
         {
             "idx":0,
             "name":"&#x1F9ED;",
+			"description":"The most northern, eastern, southern, and western parkrun.",
             "bounds":[
           
                 { "n":60, "s":56, "w":-128, "e":-50 },
@@ -14,6 +15,7 @@
         {
             "idx":1,
             "name":"BC",
+			"description":"Events located in British Columbia",
             "bounds":[
                 { "n":54, "s":48, "w":-128, "e":-118 }
             ]
@@ -21,6 +23,7 @@
         {
             "idx":2,
             "name":"AB",
+			"description":"Events located in Alberta",
             "bounds":[
                 { "n":60, "s":48, "w":-118, "e":-110 }
             ]
@@ -28,6 +31,7 @@
         {
             "idx":3,
             "name":"ON",
+			"description":"Events located in Ontario",
             "bounds":[
                 { "n":50, "s":42, "w":-87, "e":-75.9 },
                 { "n":45.4, "s":45, "w":-75.9, "e":-75 }
@@ -36,6 +40,7 @@
         {
             "idx":4,
             "name":"QC",
+			"description":"Events located in Quebec",
             "bounds":[
                 { "n":50, "s":46, "w":-79.3, "e":-77 },
                 { "n":50, "s":45.4, "w":-77, "e":-68 }
@@ -44,15 +49,13 @@
         {
             "idx":5,
             "name":"East",
+			"description":"Events located in the East of Canada",
             "bounds":[
                 { "n":50, "s":43, "w":-68, "e":-52 }
             ]
         }
     ],
-    "centerlat":49,
-    "centerlong":-100,
     "name":"Canada",
     "id":14,
-    "zoom":4,
     "githubURL":"https://github.com/cihipi/Leaderboard-JSON/"
 }

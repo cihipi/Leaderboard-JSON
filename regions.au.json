@@ -3,6 +3,7 @@
 	{
 		"idx":0,
 		"name":"&#x1F9ED;",
+		"description":"The most northern, eastern, southern, and western parkrun.",
 		"bounds":[
 			{ "n":-10.38, "s":-12.38, "w":111, "e":155.5},
 			{ "n":-10.38, "s":-45, "w":111, "e":113.7},
@@ -20,6 +21,7 @@
 	{
 		"idx":2,
 		"name":"ADL",
+		"description":"Events located in Adelaide",
 		"bounds":[
 			{ "n":-34.5, "s":-35.4, "w":138.4, "e":138.6},
 			{ "n":-34.5, "s":-35.1, "w":138.6, "e":138.8}
@@ -28,6 +30,7 @@
 	{
 		"idx":3,
 		"name":"BNE",
+		"description":"Events located in Brisbane",
 		"bounds":[
 			{ "n":-26.95, "s":-27.7, "w":152.7, "e":153.4},
 			{ "n":-27.7, "s":-27.9, "w":152.9, "e":153.2}
@@ -36,6 +39,7 @@
 	{
 		"idx":4,
 		"name":"MEL",
+		"description":"Events located in Melbourne",
 		"bounds":[
 			{ "n":-37.5, "s":-38, "w":144.5, "e":145.6},
 			{ "n":-38, "s":-38.5, "w":144.8, "e":145.6}        
@@ -44,6 +48,7 @@
 	{
 		"idx":5,
 		"name":"PER",
+		"description":"Events located in Perth",
 		"bounds":[
 			{ "n":-31.5, "s":-32.7, "w":115.4, "e":116},
 			{ "n":-31.7, "s":-32.2, "w":116, "e":116.1}
@@ -52,6 +57,7 @@
 	{
 		"idx":6,
 		"name":"TAS",
+		"description":"Events located in Tasmania",
 		"bounds":[
 			{ "n":-39.65, "s":-43.7, "w":144.5, "e":148.7}
 		]
@@ -59,6 +65,7 @@
 	{
 		"idx":7,
 		"name":"SYD",
+		"description":"Events located in Sydney",
 		"bounds":[
 			{ "n":-33.55, "s":-34.1, "w":150.6, "e":151.5}
 		]

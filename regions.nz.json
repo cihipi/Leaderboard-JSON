@@ -3,6 +3,7 @@
 		{
 			"idx":0,
 			"name":"&#x1F9ED;",
+			"description":"The most northern, eastern, southern, and western parkrun.",
 			"bounds":[
 				{ "n":-34.5, "s":-35.8, "w":165.5, "e":179 },
 				{ "n":-34.5, "s":-47.2, "w":177.8, "e":179 },
@@ -13,6 +14,7 @@
 		{
 			"idx":1,
 			"name":"AKL",
+			"description":"Events located in Auckland",
 			"bounds":[
 				{ "n":-36.6, "s":-37, "w":174, "e":175 }
 			]
@@ -20,6 +22,7 @@
 		{
 			"idx":2,
 			"name":"CHC",
+			"description":"Events located in Chistchurch",
 			"bounds":[
 				{ "n":-43.1, "s":-43.8, "w":172, "e":173 }
 			]
@@ -27,6 +30,7 @@
 		{
 			"idx":3,
 			"name":"Te Ika-a-Mui",
+			"description":"Events located on the North Island",
 			"bounds":[
 				{ "n":-34.5, "s":-40.8, "w":173, "e":179 },
         { "n":-40.8, "s":-41.6, "w":174.5, "e":179 }
@@ -35,6 +39,7 @@
 		{
 			"idx":4,
 			"name":"Te Waipounamu",
+			"description":"Events located on the South Island",
 			"bounds":[
 				{ "n":-40.7, "s":-47.2, "w":165.5, "e":174.5 }
 			]

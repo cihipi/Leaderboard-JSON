@@ -3,6 +3,7 @@
 		{
 			"idx":0,
 			"name":"&#x1F9ED;",
+			"description":"The most northern, eastern, southern, and western parkrun.",
 			"bounds":[
 				{ "n":46, "s":39.5, "w":129.5, "e":145.5 }, 
 				{ "n":46, "s":30, "w":140.7, "e":145.5 },
@@ -13,6 +14,7 @@
 		{
 			"idx":1,
 			"name":"&#x672C;&#x5DDE;",
+			"description":"Events located on Honshu",
 			"bounds":[
 				{ "n":41.5, "s":34.5, "w":129.5, "e":142 },
 				{ "n":34.5, "s":33, "w":134.8, "e":137 },
@@ -22,6 +24,7 @@
 		{
 			"idx":2,
 			"name":"&#x4E5D;&#x5DDE;",
+			"description":"Events located on Kyushu",
 			"bounds":[
 				{ "n":34, "s":31, "w":129, "e":132 }
 			]
@@ -29,6 +32,7 @@
 		{
 			"idx":3,
 			"name":"&#x56DB;&#x56FD;",
+			"description":"Events located on Shikoku",
 			"bounds":[
 				{ "n":34, "s":32.5, "w":132, "e":135 },
 				{ "n":34.4, "s":34, "w":132.8, "e":135 }
@@ -37,6 +41,7 @@
 		{
 			"idx":4,
 			"name":"&#x5927;&#x962A;&#x5E02;",
+			"description":"Events located in Osaka, Kobe, &amp; Kobe",
 			"bounds":[
 				{ "n":35.5, "s":34.4, "w":135, "e":136 }
 			]
@@ -44,6 +49,7 @@
 		{
 			"idx":5,
 			"name":"&#x540D;&#x53E4;&#x5C4B;&#x5E02;",
+			"description":"Events located in Nagoya",
 			"bounds":[
 				{ "n":35.8, "s":35, "w":136.5, "e":137.3 }
 			]
@@ -51,6 +57,7 @@
 		{
 			"idx":6,
 			"name":"&#x6771;&#x4EAC;",
+			"description":"Events located in Tokyo",
 			"bounds":[
 			{ "n":36.8, "s":35, "w":139, "e":140.3 }
 			]
