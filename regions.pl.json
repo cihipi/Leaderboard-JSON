@@ -57,7 +57,7 @@
 		},{
 			"idx":5,
 			"name":"Central",
-			"description":"Events in Łódź Voivodship &amp; Masovian Voivodship)",
+			"description":"Events in Łódź Voivodship &amp; Masovian Voivodship",
 			"bounds":[
 				{ "n":52.8, "s":52, "w":21.8, "e":22.4},
 				{ "n":53.1, "s":52.4, "w":19.5, "e":21.8},
@@ -68,5 +68,6 @@
 	"name":"Poland",
 	"id":74,
 	"githubURL":"https://github.com/cihipi/Leaderboard-JSON/",
-	"whotoblame":"used wiki travel to divide the country - hope no one is upset"
+	"whotoblame":"used wiki travel to divide the country - hope no one is upset",
+	"wikitravelURL":"https://wikitravel.org/en/Poland"
 }
