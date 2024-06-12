@@ -3,7 +3,7 @@
 		{
 			"idx":0,
 			"name":"&#x1F9ED;",
-			"description":"The most northern, eastern, southern, and western parkrun.",
+			"description":"The most Northern, Eastern, Southern, and Western parkruns in South Africa",
 			"bounds":[
 				{ "n":-22, "s":-23.1, "w":20, "e":33},
 				{ "n":-22, "s":-36, "w":32.2, "e":33},

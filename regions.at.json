@@ -3,7 +3,7 @@
 		{
 			"idx":0,
 			"name":"&#x1F9ED;",
-			"description":"The most northern, eastern, southern, and western parkrun (ie all of them).",
+			"description":"The most Northern, Eastern, Southern, and Western parkrun in Austria (ie all of them)",
 			"bounds":[
 				{ "n":49, "s":46.5, "w":9.5, "e":17.5}
 			]

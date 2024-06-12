@@ -3,7 +3,7 @@
 		{
 			"idx":0,
 			"name":"&#x1F9ED;",
-			"description":"The most northern, eastern, southern, and western parkrun.",
+			"description":"The most Northern, Eastern, Southern, and Western parkruns in Sweeden",
 			"bounds": [
 				{ "n":69, "s":63, "w":11, "e":23 },
 				{ "n":69, "s":55, "w":11, "e":12 },

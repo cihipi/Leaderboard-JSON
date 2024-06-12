@@ -3,7 +3,7 @@
 		{
 			"idx":0,
 			"name":"&#x1F9ED;",
-			"description":"The most northern, eastern, southern, and western parkrun.",
+			"description":"The most Northern, Eastern, Southern, and Western parkruns in Japan",
 			"bounds":[
 				{ "n":46, "s":39.5, "w":129.5, "e":145.5 }, 
 				{ "n":46, "s":30, "w":140.7, "e":145.5 },

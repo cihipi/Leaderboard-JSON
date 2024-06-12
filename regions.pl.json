@@ -3,7 +3,7 @@
 		{
 			"idx":0,
 			"name":"&#x1F9ED;",
-			"description":"The most northern, eastern, southern, and western parkrun.",
+			"description":"The most Northern, Eastern, Southern, and Western parkruns in Poland",
 			"bounds":[
 				{ "n":56, "s":54.59, "w":13, "e":24},
 				{ "n":56, "s":49, "w":23.4, "e":24},

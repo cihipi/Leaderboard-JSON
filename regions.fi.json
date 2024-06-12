@@ -3,7 +3,7 @@
 		{
 			"idx":0,
 			"name":"&#x1F9ED;",
-			"description":"The most northern, eastern, southern, and western parkrun.",
+			"description":"The most Northern, Eastern, Southern, and Western parkruns in Finland",
 			"bounds": [
 				{ "n":70, "s":65, "w":20, "e":30 },
 				{ "n":70, "s":60, "w":25.7, "e":30 },
