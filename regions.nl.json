@@ -3,13 +3,26 @@
 		{
 			"idx":0,
 			"name":"&#x1F9ED;",
-			"description":"The most Northern, Eastern, Southern, and Western parkruns in The Netherlands",
-			
+			"description":"The most Northern, Eastern, Southern, and Western parkruns in The Netherlands",			
 			"bounds": [
 				{ "n":54, "s":53.21, "w":3.5, "e":7.5 },
 				{ "n":54, "s":50.7, "w":6.8, "e":7.5 },
 				{ "n":50.85, "s":50.7, "w":3.5, "e":7.5 },
-				{ "n":54, "s":50.7, "w":3.5, "e":4.3 }        
+				{ "n":54, "s":50.7, "w":3.5, "e":4.3 }
+			]
+		},{
+			"idx":1,
+			"name":"Noord",
+			"description":"Events located in North Holland Province",			
+			"bounds": [
+				{ "n":53.2, "s":52.25, "w":4.5, "e":5.1 }
+			]
+		},{
+			"idx":2,
+			"name":"Zuid",
+			"description":"Events located in South Holland Province",			
+			"bounds": [
+				{ "n":52.25, "s":51.7, "w":4, "e":4.9 }
 			]
 		}
 	],

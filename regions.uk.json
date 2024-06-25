@@ -1,0 +1,30 @@
+{
+	"region":[
+		{
+			"idx":0,
+			"name":"&#x1F9ED;",
+			"description":"The most northern, eastern, southern, and western parkruns",
+			"bounds":[
+				{ "n":61, "s":60, "w":-8, "e":3 },
+				{ "n":61, "s":49, "w":1.74, "e":3 },
+				{ "n":49.2, "s":49, "w":-8, "e":3 },
+				{ "n":61, "s":49, "w":-8, "e":-7.6 }
+			]
+		},
+		{
+			"idx":1,
+			"name":"&#x1F697;",
+			"description":"The most northern, eastern, southern, and western parkruns by road",
+			"bounds":[
+				{ "n":58.7, "s":58.5, "w":-7, "e":3 },
+				{ "n":58.7, "s":49.7, "w":1.74, "e":3 },
+				{ "n":50.07, "s":49.7, "w":-7, "e":3 },
+				{ "n":54, "s":49.7, "w":-7, "e":-5.70 },
+				{ "n":57.9, "s":55.5, "w":-7, "e":-5.70 }
+			]
+		}		
+	],
+	"name":"United Kingdom",
+	"id":97,
+	"githubURL":"https://github.com/cihipi/Leaderboard-JSON/"
+}
