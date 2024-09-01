@@ -1,18 +1,38 @@
 {
-	"region":[
-		{
-			"idx":0,
-			"name":"&#x1F9ED;",
-			"description":"The most Northern, Eastern, Southern, and Western parkruns in Norway",
-			"bounds": [
-				{ "n":70, "s":63, "w":4.5, "e":20 },
-				{ "n":70, "s":58, "w":4.5, "e":5.6 },
-				{ "n":59, "s":58, "w":4.5, "e":20 },
-				{ "n":70, "s":58, "w":10.7778, "e":20 }
-			]
-		}
-	],
-	"name":"Norway",
-	"id":67,
-	"githubURL":"https://github.com/cihipi/Leaderboard-JSON/"
+  "region": [
+    {
+      "idx": 0,
+      "name": "&#x1F9ED;",
+      "description": "The most Northern, Eastern, Southern, and Western events in Norway",
+      "bounds": [
+        {
+          "n": 70,
+          "s": 63,
+          "w": 4.5,
+          "e": 20
+        },
+        {
+          "n": 70,
+          "s": 58,
+          "w": 4.5,
+          "e": 5.6
+        },
+        {
+          "n": 59,
+          "s": 58,
+          "w": 4.5,
+          "e": 20
+        },
+        {
+          "n": 70,
+          "s": 58,
+          "w": 11,
+          "e": 20
+        }
+      ]
+    }
+  ],
+  "name": "Norway",
+  "id": 67,
+  "githubURL": "https://github.com/cihipi/Leaderboard-JSON/"
 }

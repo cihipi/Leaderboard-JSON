@@ -1,15 +1,20 @@
 {
-	"region":[
-		{
-			"idx":0,
-			"name":"&#x1F9ED;",
-			"description":"The most Northern, Eastern, Southern, and Western parkrun in Singapore",
-			"bounds":[
-				{ "n":1.5, "s":1.2, "w":103.5, "e":104.1 }
-			]
-		}
-	],
-	"name":"Singapore",
-	"id":82,
-	"githubURL":"https://github.com/cihipi/Leaderboard-JSON/"
+  "region": [
+    {
+      "idx": 0,
+      "name": "&#x1F9ED;",
+      "description": "The most Northern, Eastern, Southern, and Western events in Singapore",
+      "bounds": [
+        {
+          "n": 1.5,
+          "s": 1.2,
+          "w": 103.5,
+          "e": 104.1
+        }
+      ]
+    }
+  ],
+  "name": "Singapore",
+  "id": 82,
+  "githubURL": "https://github.com/cihipi/Leaderboard-JSON/"
 }

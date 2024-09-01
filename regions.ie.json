@@ -3,7 +3,7 @@
 		{
 			"idx":0,
 			"name":"&#x1F9ED;",
-			"description":"The most Northern, Eastern, Southern, and Western parkruns in Ireland",
+			"description":"The most Northern, Eastern, Southern, and Western events in Ireland",
 			"bounds": [
 				{ "n":56, "s":55.14, "w":-11, "e":-5 },
 				{ "n":56, "s":51, "w":-6.12, "e":-5 },
@@ -13,7 +13,7 @@
 		},{
 			"idx":1,
 			"name":"SW",
-			"description":"Events in Southwest Ireland (counties Cork &amp; Kerry)",
+			"description":"Events in Southwest Ireland (counties Cork and Kerry)",
 			"bounds": [
 				{ "n":52.58, "s":51, "w":-11, "e":-9.2 },
 				{ "n":52.3, "s":51, "w":-9.2, "e":-8.1 },

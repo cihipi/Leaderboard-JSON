@@ -3,9 +3,9 @@
 		{
 			"idx":0,
 			"name":"&#x1F9ED;",
-			"description":"The most Northern, Eastern, Southern, and Western parkruns in Germany",
+			"description":"The most Northern, Eastern, Southern, and Western events in Germany",
 			"bounds":[
-				{ "n":55, "s":53.5, "w":5, "e":14.5},
+				{ "n":55, "s":53.7, "w":5, "e":14.5},
 				{ "n":55, "s":47, "w":13.6, "e":14.5},
 				{ "n":47.6, "s":47, "w":5, "e":14.5},
 				{ "n":55, "s":47, "w":5, "e":6.1}        

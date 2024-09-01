@@ -3,7 +3,7 @@
 		{
 			"idx":0,
 			"name":"&#x1F9ED;",
-			"description":"The most Northern, Eastern, Southern, and Western parkruns in New Zealand",
+			"description":"The most Northern, Eastern, Southern, and Western events in New Zealand",
 			"bounds":[
 				{ "n":-34.5, "s":-35.8, "w":165.5, "e":179 },
 				{ "n":-34.5, "s":-47.2, "w":177.8, "e":179 },

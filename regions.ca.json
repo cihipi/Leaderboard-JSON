@@ -3,7 +3,7 @@
         {
             "idx":0,
             "name":"&#x1F9ED;",
-			"description":"The most Northern, Eastern, Southern, and Western parkruns in Canada",
+			"description":"The most Northern, Eastern, Southern, and Western events in Canada",
             "bounds":[
           
                 { "n":60, "s":56, "w":-128, "e":-50 },
