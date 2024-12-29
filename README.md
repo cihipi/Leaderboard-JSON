@@ -13,7 +13,7 @@ You should see three windows
 - HTML
 - CSS
 - JavaScript
-3. You can change this to tabs by editting your settings in the top right hand corner.
+3. You can change this to tabs by editing your settings in the top right hand corner.
 ![Edit the settings by choosing tabs](./images/tabs.png)
 4. Select the javascript tab or window.
 5. Towards the top of the JavaScript page you should see a similar looking JSON file in red.
@@ -23,6 +23,18 @@ You should see three windows
 7. Change the line var targetregion = 0 to match the idx number in the JSON file.
 8. Click run or press CTRL + Enter. The google map should update.
 9. Editing the **n**orth, **s**outh, **e**ast or **w**est values will move the red rectangle. Events located inside the any of the rectangles will turn green. There isn't a known limit on the number of rectangles.
+## File format
+* idx = index (non binding)
+* name
+* description
+* one of the following
+	* bounds - defining a rectangle to use
+	* polygon - the name of a polygon to reference
+* events = if a polygon is defined, we use google maps to decide whether a point is inside it or not. saves me a lot of messing around
+* excludeRegion = references the idx of any nested regions. Eg ACT is inside NSW in Australia
+* zoom = deprecated but a zoom to use for the region
+* center = deprecated but where to center the region
+
 ## Useful links
 - https://hanshack.com/geotools/gimmegeodata/
 - https://mapshaper.org/
