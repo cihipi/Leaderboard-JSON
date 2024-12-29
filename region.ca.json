@@ -1,0 +1,134 @@
+{
+   "region": [
+      {
+         "idx": 0,
+         "name": "&#x1F9ED;",
+         "description": "The most Northern, Eastern, Southern, and Western events in Canada",
+         "bounds": [
+            {
+               "n": 60,
+               "s": 56,
+               "w": -128,
+               "e": -50
+            },
+            {
+               "n": 43.1,
+               "s": 42,
+               "w": -128,
+               "e": -50
+            },
+            {
+               "n": 60,
+               "s": 42,
+               "w": -128,
+               "e": -123.5
+            },
+            {
+               "n": 60,
+               "s": 42,
+               "w": -58,
+               "e": -50
+            }
+         ]
+      },
+      {
+         "idx": 1,
+         "name": "BC",
+         "description": "Events located in British Columbia",
+         "polygon": "ca.bc",
+         "events": [
+            1520,
+            1537,
+            1708,
+            1788,
+            2417,
+            2428,
+            2482,
+            2938,
+            3088,
+            3358,
+            3464,
+            3538
+         ]
+      },
+      {
+         "idx": 2,
+         "name": "AB",
+         "description": "Events located in Alberta",
+         "polygon": "ca.ab",
+         "events": [
+            1517,
+            2214,
+            2380,
+            2424,
+            2732,
+            3312,
+            3338,
+            3349
+         ]
+      },
+      {
+        "idx": 3,
+        "name": "SK MB",
+        "description": "Events located in Saskatchewan and Manitoba",
+        "bounds": [
+            { "n":60, "s":49, "w":-110, "e":-95.15}
+        ]
+      },
+      {
+         "idx": 4,
+         "name": "ON",
+         "description": "Events located in Ontario",
+         "polygon": "ca.on",
+         "events": [
+            1648,
+            1670,
+            1686,
+            1733,
+            1871,
+            1920,
+            2010,
+            2018,
+            2104,
+            2145,
+            2147,
+            2351,
+            2358,
+            2423,
+            2445,
+            2745,
+            2875,
+            3463,
+            3502,
+            3513
+         ]
+      },
+      {
+         "idx": 5,
+         "name": "QC",
+         "description": "Events located in Quebec",
+         "polygon": "ca.qc",
+         "events": [
+            1619,
+            1678,
+            2638
+         ]
+      },
+      {
+         "idx": 6,
+         "name": "East",
+         "description": "Events located in the East of Canada",
+         "bounds": [
+            {
+               "n": 50,
+               "s": 43,
+               "w": -68,
+               "e": -52
+            }
+         ]
+      }
+   ],
+   "name": "Canada",
+   "id": 14,
+   "githubURL": "https://github.com/cihipi/Leaderboard-JSON/"
+}

@@ -1,0 +1,26 @@
+{
+	"region":[
+		{
+			"idx":0,
+			"name":"&#x1F9ED;",
+			"description":"The most Northern, Eastern, Southern, and Western events in Denmark",
+			"bounds": [
+				{ "n":57.8, "s":56.8, "w":8, "e":13 },
+				{ "n":57.8, "s":54.5, "w":8, "e":8.45 },
+				{ "n":55.475, "s":54.5, "w":8, "e":13 },
+				{ "n":57.8, "s":54.5, "w":12.6, "e":13 }
+			]
+		},
+        {
+			"idx":1,
+			"name":"CPH",
+			"description":"Events located in Copenhagen",
+			"bounds": [
+				{ "n":56, "s":55.5, "w":12, "e":13 }
+			]
+		}
+	],
+	"name":"Denmark",
+	"id":23,
+	"githubURL":"https://github.com/cihipi/Leaderboard-JSON/"
+}

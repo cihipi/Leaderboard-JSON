@@ -1,0 +1,15 @@
+{
+	"region":[
+		{
+			"idx":0,
+			"name":"&#x1F9ED;",
+			"description":"The most Northern, Eastern, Southern, and Western event in Austria (ie all of them)",
+			"bounds":[
+				{ "n":49, "s":46.5, "w":9.5, "e":17.5}
+			]
+		}
+	],
+	"name":"Austria",
+	"id":4,
+	"githubURL":"https://github.com/cihipi/Leaderboard-JSON/"
+}

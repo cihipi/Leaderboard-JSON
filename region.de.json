@@ -1,0 +1,142 @@
+{
+   "region": [
+      {
+         "idx": 0,
+         "name": "&#x1F9ED;",
+         "description": "The most Northern, Eastern, Southern, and Western events in Germany",
+         "bounds": [
+            {
+               "n": 55,
+               "s": 53.7,
+               "w": 5,
+               "e": 14.5
+            },
+            {
+               "n": 55,
+               "s": 47,
+               "w": 13.6,
+               "e": 14.5
+            },
+            {
+               "n": 47.6,
+               "s": 47,
+               "w": 5,
+               "e": 14.5
+            },
+            {
+               "n": 55,
+               "s": 47,
+               "w": 5,
+               "e": 6.1
+            }
+         ]
+      },
+      {
+         "idx": 1,
+         "name": "South",
+         "description": "Events located in Southern Germany (Baden-Württemberg and Bayern)",
+         "polygon": "de.south",
+         "events": [
+            1774,
+            1884,
+            1959,
+            2205,
+            2283,
+            2315,
+            2365,
+            2386,
+            2421,
+            2562,
+            2582,
+            2632,
+            2678,
+            2739,
+            2747,
+            2808,
+            2833,
+            2834,
+            2844,
+            3021,
+            3258,
+            3307,
+            3367,
+            3437
+         ]
+      },
+      {
+         "idx": 2,
+         "name": "East",
+         "description": "Events located in Eastern Germany (Berlin, Brandenburg, Saxony, Saxony-Anhalt)",
+         "polygon": "de.east",
+         "events": [
+            1794,
+            1824,
+            3083,
+            3210,
+            3541
+         ]
+      },
+      {
+         "idx": 3,
+         "name": "Central",
+         "description": "Events located in Central Germany (Hesse and Thuringia)",
+         "polygon": "de.central",
+         "events": [
+            1801,
+            2102,
+            2420,
+            2659,
+            2727,
+            2750,
+            3043,
+            3553
+         ]
+      },
+      {
+         "idx": 4,
+         "name": "North",
+         "description": "Events located in Northern Germany (Bremen, Hamburg, Lower Saxony, Mecklenburg-Western Pomerania, Schleswig-Holstein)",
+         "polygon": "de.north",
+         "events": [
+            1792,
+            1793,
+            2204,
+            2349,
+            2373,
+            2953,
+            3044,
+            3280,
+            3540,
+            3607
+         ]
+      },
+      {
+         "idx": 5,
+         "name": "West",
+         "description": "Events located in Western Germany (North Rhine-Westphalia, Rhineland-Palatinate, Saarland)",
+         "polygon": "de.west",
+         "events": [
+            2086,
+            2203,
+            2221,
+            2265,
+            2326,
+            2525,
+            2751,
+            2763,
+            2957,
+            3148,
+            3304,
+            3348,
+            3411,
+            3421,
+            3566
+         ]
+      }
+   ],
+   "name": "Germany",
+   "id": 32,
+   "githubURL": "https://github.com/cihipi/Leaderboard-JSON/",
+   "whotoblame": "used wiki travel to divide the country - hope no one is upset",
+   "wikitravelURL": "https://wikitravel.org/en/Germany"
+}

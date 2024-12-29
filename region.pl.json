@@ -1,0 +1,189 @@
+{
+   "region": [
+      {
+         "idx": 0,
+         "name": "&#x1F9ED;",
+         "description": "The most Northern, Eastern, Southern, and Western events in Poland",
+         "bounds": [
+            {
+               "n": 56,
+               "s": 54.59,
+               "w": 13,
+               "e": 24
+            },
+            {
+               "n": 56,
+               "s": 49,
+               "w": 23.4,
+               "e": 24
+            },
+            {
+               "n": 49.6,
+               "s": 49,
+               "w": 13,
+               "e": 24
+            },
+            {
+               "n": 56,
+               "s": 49,
+               "w": 13,
+               "e": 14.3
+            }
+         ]
+      },
+      {
+         "idx": 1,
+         "name": "Lesser",
+         "description": "Events in the Świętokrzyskie, Małopolskie, Lubelskie, Podkarpackie Voivodeships",
+         "polygon": "pl.lesser",
+         "events": [
+            474,
+            1105,
+            1625,
+            1986,
+            2431,
+            2837,
+            3126,
+            3200,
+            3297,
+            3369,
+            3380
+         ]
+      },
+      {
+         "idx": 2,
+         "name": "Silesia",
+         "description": "Events in the Lower Silesia, Opole Voivodeship, Silesian Voivodeship",
+         "polygon": "pl.silesia",
+         "events": [
+            543,
+            838,
+            1084,
+            1214,
+            1215,
+            1260,
+            1449,
+            1646,
+            1735,
+            2276,
+            2336,
+            2672,
+            2890,
+            2954,
+            3544,
+            3589
+         ]
+      },
+      {
+         "idx": 3,
+         "name": "Greater",
+         "description": "Events in the Greater Poland Voivodship &amp; Lubusz",
+         "polygon": "pl.greater",
+         "events": [
+            402,
+            602,
+            622,
+            890,
+            1304,
+            1720,
+            1730,
+            1737,
+            2024,
+            2280,
+            2301,
+            2311,
+            2469,
+            2770,
+            2860,
+            2861,
+            2874,
+            3246,
+            3298,
+            3356,
+            3357,
+            3603
+         ]
+      },
+      {
+         "idx": 4,
+         "name": "Pomerania",
+         "description": "Events in Pomeranian Voivodship, Kuyavia-Pomerania, &amp; West Pomerania",
+         "polygon": "pl.pomerania",
+         "events": [
+            337,
+            345,
+            600,
+            1025,
+            1104,
+            1156,
+            1198,
+            1297,
+            1305,
+            1446,
+            1510,
+            1594,
+            1773,
+            1836,
+            2089,
+            2097,
+            2310,
+            2378,
+            2388,
+            2656,
+            3003,
+            3461,
+            3578
+         ]
+      },
+      {
+         "idx": 5,
+         "name": "Central",
+         "description": "Events in Łódź Voivodship and Masovian Voivodship",
+         "polygon": "pl.central",
+         "events": [
+            400,
+            472,
+            841,
+            891,
+            992,
+            1055,
+            1261,
+            1431,
+            1515,
+            1677,
+            1689,
+            1804,
+            2200,
+            2583,
+            2986,
+            3130,
+            3268,
+            3532,
+            3593
+         ]
+      },
+      {
+         "idx": 6,
+         "name": "NE",
+         "description": "Events in Warmia-Masuria and Podlaskie Voivodship",
+         "polygon": "pl.ne",
+         "events": [
+            1361,
+            1450,
+            1534,
+            1690,
+            1748,
+            2149,
+            2471,
+            2705,
+            2839,
+            3478
+         ]
+      }
+   ],
+   "name": "Poland",
+   "id": 74,
+   "githubURL": "https://github.com/cihipi/Leaderboard-JSON/",
+   "whotoblame": "used wiki travel to divide the country - hope no one is upset",
+   "wikitravelURL": "https://wikitravel.org/en/Poland"
+}
