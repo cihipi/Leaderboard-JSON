@@ -153,9 +153,9 @@
       },
       {
          "idx": 4,
-         "name": "JNB",
-         "description": "Events located in Johannesburg",
-         "polygon": "za.jnb",
+         "name": "GP",
+         "description": "Events located in Gauteng",
+         "polygon": "za.gp",
          "events": [
             336,
             358,
@@ -261,7 +261,8 @@
             3346,
             3563,
             3564,
-            3592
+            3592,
+            3620
          ]
       },
       {

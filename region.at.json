@@ -3,9 +3,12 @@
 		{
 			"idx":0,
 			"name":"&#x1F9ED;",
-			"description":"The most Northern, Eastern, Southern, and Western event in Austria (ie all of them)",
+			"description":"The most Northern, Eastern, Southern, and Western event in Austria",
 			"bounds":[
-				{ "n":49, "s":46.5, "w":9.5, "e":17.5}
+				{ "n":49, "s":48.3, "w":10, "e":17.3 },
+                { "n":49, "s":46, "w":16, "e":17.3 },
+				{ "n":46.7, "s":46, "w":10, "e":17.3},
+                { "n":49, "s":46, "w":10, "e":13.1 }
 			]
 		}
 	],

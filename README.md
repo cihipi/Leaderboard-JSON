@@ -39,3 +39,16 @@ You should see three windows
 - https://hanshack.com/geotools/gimmegeodata/
 - https://mapshaper.org/
 - https://www.abs.gov.au/websitedbs/censushome.nsf/home/factsheetsgeography/$file/Greater%20Capital%20City%20Statistical%20Area%20-%20Fact%20Sheet.pdf
+
+## Other stats
+- https://mostevents.parq.run/
+- https://regionnaire.net/
+- http://www.elliottline.com/parkrun
+- https://parkrace.net
+- https://newparkruns.tiiny.site/
+
+## Nodejs
+- npm init (you need the git repo URL)
+- npm i puppeteer --save
+
+
