@@ -51,4 +51,11 @@ You should see three windows
 - npm init (you need the git repo URL)
 - npm i puppeteer --save
 
+## Update
+- worldevents -> polygon
+- leaderboard (optional) -> switch do dev
+- nodejs
+- worldevents -> polygon and region definitions
+- leadboard -> generate list of runners
+- check
 

@@ -1,81 +1,206 @@
 {
-	"region":[
-		{
-			"idx":0,
-			"name":"&#x1F9ED;",
-			"description":"The most Northern, Eastern, Southern, and Western events in Ireland",
-			"bounds": [
-				{ "n":56, "s":55.14, "w":-11, "e":-5 },
-				{ "n":56, "s":51, "w":-6.12, "e":-5 },
-				{ "n":51.6, "s":51, "w":-11, "e":-5 },
-				{ "n":56, "s":51, "w":-11, "e":-10 }
-			]
-		},{
-			"idx":1,
-			"name":"SW",
-			"description":"Events in Southwest Ireland (counties Cork and Kerry)",
-			"bounds": [
-				{ "n":52.58, "s":51, "w":-11, "e":-9.2 },
-				{ "n":52.3, "s":51, "w":-9.2, "e":-8.1 },
-				{ "n":52.1, "s":51, "w":-8.1, "e":-7.8 }
-			]
-		},{
-			"idx":2,
-			"name":"SE",
-			"description":"Events in Southeast Ireland (counties Carlow, Kilkenny, Waterford, Wexford)",
-			"bounds": [
-				{ "n":52.22, "s":51, "w":-8.1, "e":-7.8},
-				{ "n":52.35, "s":51, "w":-7.8, "e":-7.5},
-				{ "n":52.9, "s":51, "w":-7.5, "e":-6.6},
-				{ "n":52.77, "s":51, "w":-6.6, "e":-6.2}
-			]
-		},{
-			"idx":3,
-			"name":"Shannon",
-			"description":"Events in Shannon Region (counties Clare, Limerick, Tipperary)",
-			"bounds": [
-				{ "n":52.9, "s":52.3, "w":-9.3, "e":-7.5},
-				{ "n":53.2, "s":52.6, "w":-10, "e":-9.0},
-				{ "n":53, "s":52.9, "w":-9, "e":-8.0},
-				{ "n":53.17, "s":53, "w":-8.2, "e":-7.95}
-				
-			]
-		},{
-			"idx":4,
-			"name":"W",
-			"description":"Events in West Ireland (counties Galway, Mayo, Roscommon)",
-			"bounds": [
-				{ "n":54.5, "s":53.2, "w":-11, "e":-9.0},
-				{ "n":53.97, "s":53, "w":-9, "e":-8.0},
-				{ "n":54.1, "s":53.97, "w":-8.4, "e":-8.05}
-				
-			]
-		},{
-			"idx":5,
-			"name":"E &amp; Mid",
-			"description":"Events in East Coast and Midlands (counties Dublin, Kildare, Laois, Longford, Louth, Meath, Offaly, Westmeath, Wicklow)",
-			"bounds": [
-				{ "n":53.8, "s":52.9, "w":-8, "e":-6.9},
-				{ "n":53.9, "s":52.9, "w":-6.9, "e":-6.6},
-				{ "n":54.3, "s":52.77, "w":-6.6, "e":-6.0}
-				
-			]
-		},{
-			"idx":6,
-			"name":"NW &amp; Lake",
-			"description":"Events in Northwest Ireland and Lakelands (counties Cavan, Donegal, Leitrim, Monaghan, Sligo)",
-			"bounds": [
-				{ "n":55.5, "s":53.8, "w":-8, "e":-6.9},
-				{ "n":55.5, "s":53.9, "w":-6.9, "e":-6.6},
-				{ "n":55.5, "s":54.1, "w":-8.4, "e":-8.0},
-				{ "n":55.5, "s":54.0, "w":-9.0, "e":-8.4}
-				
-			]
-		}
-	],
-	"name":"Ireland",
-	"id":42,
-	"githubURL":"https://github.com/cihipi/Leaderboard-JSON/",
-	"whotoblame":"used wiki travel to divide the country - hope no one is upset",
-	"wikitravelURL":"https://wikitravel.org/en/Ireland"
+   "region": [
+      {
+         "idx": 0,
+         "name": "&#x1F9ED;",
+         "description": "The most Northern, Eastern, Southern, and Western events in Ireland",
+         "bounds": [
+            {
+               "n": 56,
+               "s": 55.14,
+               "w": -11,
+               "e": -5
+            },
+            {
+               "n": 56,
+               "s": 51,
+               "w": -6.12,
+               "e": -5
+            },
+            {
+               "n": 51.6,
+               "s": 51,
+               "w": -11,
+               "e": -5
+            },
+            {
+               "n": 56,
+               "s": 51,
+               "w": -11,
+               "e": -10
+            }
+         ]
+      },
+      {
+         "idx": 1,
+         "name": "DUB",
+         "description": "Events in Dublin",
+         "polygon": "ie.dub",
+         "events": [
+            373,
+            480,
+            578,
+            615,
+            740,
+            885,
+            896,
+            1049,
+            1058,
+            1192,
+            1193,
+            1316,
+            1321,
+            1344,
+            1506,
+            1630,
+            1712,
+            1714,
+            1731,
+            1743,
+            1785,
+            1814,
+            2925,
+            3171
+         ]
+      },
+      {
+         "idx": 2,
+         "name": "SW",
+         "description": "Events in Southwest Ireland (counties Cork and Kerry)",
+         "polygon": "ie.sw",
+         "events": [
+            374,
+            556,
+            966,
+            1088,
+            1302,
+            1373,
+            1390,
+            1489,
+            1664,
+            1968,
+            2185,
+            2439,
+            2674,
+            2754,
+            3386,
+            3619
+         ]
+      },
+      {
+         "idx": 3,
+         "name": "SE",
+         "description": "Events in Southeast Ireland (counties Carlow, Kilkenny, Waterford, Wexford)",
+         "polygon": "ie.se",
+         "events": [
+            996,
+            1179,
+            1229,
+            1381,
+            1550,
+            1742,
+            3370
+         ]
+      },
+      {
+         "idx": 4,
+         "name": "Mid-W",
+         "description": "Events in the Mid West Region (counties Clare, Limerick, Tipperary)",
+         "polygon": "ie.mid-w",
+         "events": [
+            1027,
+            1180,
+            1365,
+            1413,
+            1434,
+            1617,
+            1672,
+            2090,
+            2273,
+            2624,
+            2730,
+            3103
+         ]
+      },
+      {
+         "idx": 5,
+         "name": "W",
+         "description": "Events in West Ireland (counties Galway, Mayo, Roscommon)",
+         "polygon": "ie.w",
+         "events": [
+            625,
+            781,
+            871,
+            1054,
+            1412,
+            1451,
+            1507,
+            1643,
+            1662,
+            1782,
+            1875,
+            2087,
+            2325,
+            2500,
+            2711,
+            3155,
+            3281,
+            3402
+         ]
+      },
+      {
+         "idx": 6,
+         "name": "Mid-E",
+         "description": "Events in East Coast and Midlands (counties Kildare, Laois, Longford, Louth, Meath, Offaly, Westmeath, Wicklow)",
+         "polygon": "ie.mid-e",
+         "events": [
+            178,
+            741,
+            895,
+            1010,
+            1250,
+            1454,
+            1460,
+            1629,
+            1659,
+            1694,
+            1935,
+            2167,
+            2286,
+            2769,
+            2780,
+            3430,
+            3485
+         ]
+      },
+      {
+         "idx": 7,
+         "name": "NW-Lake",
+         "description": "Events in Northwest Ireland and Lakelands (counties Cavan, Donegal, Leitrim, Monaghan, Sligo)",
+         "polygon": "ie.nw-lake",
+         "events": [
+            898,
+            1050,
+            1133,
+            1251,
+            1384,
+            1415,
+            1707,
+            1729,
+            2381,
+            2453,
+            2585,
+            2916,
+            3098,
+            3439,
+            3467,
+            3562
+         ]
+      }
+   ],
+   "name": "Ireland",
+   "id": 42,
+   "githubURL": "https://github.com/cihipi/Leaderboard-JSON/",
+   "whotoblame": "used wiki travel to divide the country - hope no one is upset",
+   "wikitravelURL": "https://wikitravel.org/en/Ireland"
 }

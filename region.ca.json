@@ -69,7 +69,7 @@
       },
       {
         "idx": 3,
-        "name": "SK MB",
+        "name": "SK &amp; MB",
         "description": "Events located in Saskatchewan and Manitoba",
         "bounds": [
             { "n":60, "s":49, "w":-110, "e":-95.15}
