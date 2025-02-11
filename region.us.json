@@ -4,6 +4,7 @@
 			"idx":0,
 			"name":"&#x1F9ED;",
 			"description":"The most Northern, Eastern, Southern, and Western events in the USA",
+			"excludefromattendance": true,
 			"bounds":[
 				{ "n":50, "s":48, "w":-124.8, "e":-68 },
 				{ "n":50, "s":26, "w":-70, "e":-68 },

@@ -4,6 +4,7 @@
          "idx": 0,
          "name": "&#x1F9ED;",
          "description": "The most Northern, Eastern, Southern, and Western events in Ireland",
+         "excludefromattendance": true,
          "bounds": [
             {
                "n": 56,
@@ -35,6 +36,7 @@
          "idx": 1,
          "name": "DUB",
          "description": "Events in Dublin",
+         "short": "Dublin",
          "polygon": "ie.dub",
          "events": [
             373,
@@ -68,6 +70,7 @@
          "name": "SW",
          "description": "Events in Southwest Ireland (counties Cork and Kerry)",
          "polygon": "ie.sw",
+         "short": "Southwest",
          "events": [
             374,
             556,
@@ -92,6 +95,7 @@
          "name": "SE",
          "description": "Events in Southeast Ireland (counties Carlow, Kilkenny, Waterford, Wexford)",
          "polygon": "ie.se",
+         "short": "Southeast",
          "events": [
             996,
             1179,
@@ -106,6 +110,7 @@
          "idx": 4,
          "name": "Mid-W",
          "description": "Events in the Mid West Region (counties Clare, Limerick, Tipperary)",
+         "short": "Mid West",
          "polygon": "ie.mid-w",
          "events": [
             1027,
@@ -126,6 +131,7 @@
          "idx": 5,
          "name": "W",
          "description": "Events in West Ireland (counties Galway, Mayo, Roscommon)",
+         "short": "West",
          "polygon": "ie.w",
          "events": [
             625,
@@ -151,6 +157,7 @@
       {
          "idx": 6,
          "name": "Mid-E",
+         "short": "East coast &amp; Midlands",
          "description": "Events in East Coast and Midlands (counties Kildare, Laois, Longford, Louth, Meath, Offaly, Westmeath, Wicklow)",
          "polygon": "ie.mid-e",
          "events": [
@@ -176,6 +183,7 @@
       {
          "idx": 7,
          "name": "NW-Lake",
+         "short": "Northwest &amp; Lakelands",
          "description": "Events in Northwest Ireland and Lakelands (counties Cavan, Donegal, Leitrim, Monaghan, Sligo)",
          "polygon": "ie.nw-lake",
          "events": [

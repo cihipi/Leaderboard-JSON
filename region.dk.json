@@ -4,6 +4,7 @@
 			"idx":0,
 			"name":"&#x1F9ED;",
 			"description":"The most Northern, Eastern, Southern, and Western events in Denmark",
+			"excludefromattendance": true,
 			"bounds": [
 				{ "n":57.8, "s":56.8, "w":8, "e":13 },
 				{ "n":57.8, "s":54.5, "w":8, "e":8.45 },

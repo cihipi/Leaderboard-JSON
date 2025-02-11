@@ -4,6 +4,7 @@
       "idx": 0,
       "name": "&#x1F9ED;",
       "description": "The most Northern, Eastern, Southern, and Western events in Singapore",
+      "excludefromattendance": true,
       "bounds": [
         {
           "n": 1.5,

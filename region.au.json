@@ -4,6 +4,7 @@
          "idx": 0,
          "name": "&#x1F9ED;",
          "description": "The most Northern, Eastern, Southern, and Western events in Australia",
+         "excludefromattendance": true,
          "bounds": [
             {
                "n": -10.38,
@@ -35,6 +36,7 @@
          "idx": 1,
          "name": "ADL",
          "description": "Events located in Adelaide - Radelaidian Challenge",
+         "short" : "Adelaide",
          "bounds": [
             {
                "n": -34.5,
@@ -54,6 +56,7 @@
          "idx": 2,
          "name": "BNE",
          "description": "Events located in Brisbane",
+         "short" : "Brisbane",
          "bounds": [
             {
                "n": -26.95,
@@ -73,6 +76,7 @@
          "idx": 3,
          "name": "MEL",
          "description": "Events located in Melbourne",
+         "short": "Melbourne",
          "bounds": [
             {
                "n": -37.5,
@@ -92,6 +96,7 @@
          "idx": 4,
          "name": "PER",
          "description": "Events located in Perth - Perthfection Challenge",
+         "short": "Perth",
          "polygon": "au.per",
          "events": [
             397,
@@ -136,6 +141,7 @@
          "idx": 5,
          "name": "SYD",
          "description": "Events located in Sydney - Raefarer Challenge",
+         "short": "Sydney",
          "bounds": [
             {
                "n": -33.55,
@@ -149,6 +155,7 @@
          "idx": 6,
          "name": "ACT",
          "description": "Events located in the ACT",
+         "short": "ACT",
          "polygon": "au.act",
          "events": [
             364,
@@ -171,6 +178,7 @@
          "idx": 7,
          "name": "NSW",
          "description": "Events located in NSW",
+         "short": "NSW",
          "polygon": "au.nsw",
          "events": [
             25,
@@ -300,6 +308,7 @@
          "idx": 8,
          "name": "NT",
          "description": "Events located in the Northern Territory",
+         "short": "Northern Territory",
          "bounds": [
             {
                "n": -11,
@@ -313,6 +322,7 @@
          "idx": 9,
          "name": "QLD",
          "description": "Events located in Queensland",
+         "short": "Queensland",
          "polygon": "au.qld",
          "events": [
             193,
@@ -445,7 +455,8 @@
             3550,
             3573,
             3596,
-            3604
+            3604,
+            3611
          ],
          "excludeRegion": 7,
          "zoom": 4,
@@ -458,6 +469,7 @@
          "idx": 10,
          "name": "SA",
          "description": "Events located in South Australia",
+         "short": "South Australia",
          "bounds": [
             {
                "n": -26,
@@ -471,6 +483,7 @@
          "idx": 11,
          "name": "TAS",
          "description": "Events located in Tasmania",
+         "short": "Tasmania",
          "bounds": [
             {
                "n": -39.65,
@@ -484,6 +497,7 @@
          "idx": 12,
          "name": "VIC",
          "description": "Events located in Victoria",
+         "short": "Victoria",
          "polygon": "au.vic",
          "events": [
             52,
@@ -611,6 +625,7 @@
          "idx": 13,
          "name": "WA",
          "description": "Events located in Western Australia",
+         "short": "Western Australia",
          "bounds": [
             {
                "n": -12,

@@ -4,6 +4,7 @@
          "idx": 0,
          "name": "&#x1F9ED;",
          "description": "The most Northern, Eastern, Southern, and Western events in South Africa",
+         "excludefromattendance": true,
          "bounds": [
             {
                "n": -22,
@@ -35,6 +36,7 @@
          "idx": 1,
          "name": "W Cape",
          "description": "Events located in Western Cape",
+         "short": "Western Cape",
          "polygon": "za.w cape",
          "events": [
             303,
@@ -88,6 +90,7 @@
          "idx": 2,
          "name": "E Cape",
          "description": "Events located in Eastern Cape",
+         "short": "Eastern Cape",
          "polygon": "za.e cape",
          "events": [
             459,
@@ -115,6 +118,7 @@
          "idx": 3,
          "name": "KZN",
          "description": "Events located in KwaZulu-Natal",
+         "short": "KwaZulu-Natal",
          "polygon": "za.kzn",
          "events": [
             426,
@@ -155,6 +159,7 @@
          "idx": 4,
          "name": "GP",
          "description": "Events located in Gauteng",
+         "short": "Gauteng",
          "polygon": "za.gp",
          "events": [
             336,

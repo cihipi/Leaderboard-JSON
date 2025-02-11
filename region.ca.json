@@ -4,6 +4,7 @@
          "idx": 0,
          "name": "&#x1F9ED;",
          "description": "The most Northern, Eastern, Southern, and Western events in Canada",
+         "excludefromattendance": true,
          "bounds": [
             {
                "n": 60,
@@ -35,6 +36,7 @@
          "idx": 1,
          "name": "BC",
          "description": "Events located in British Columbia",
+         "short": "British Columbia",
          "polygon": "ca.bc",
          "events": [
             1520,
@@ -55,6 +57,7 @@
          "idx": 2,
          "name": "AB",
          "description": "Events located in Alberta",
+         "short": "Alberta",
          "polygon": "ca.ab",
          "events": [
             1517,
@@ -71,6 +74,7 @@
         "idx": 3,
         "name": "SK &amp; MB",
         "description": "Events located in Saskatchewan and Manitoba",
+        "short": "Saskatchewan &amp; Manitoba",
         "bounds": [
             { "n":60, "s":49, "w":-110, "e":-95.15}
         ]
@@ -79,6 +83,7 @@
          "idx": 4,
          "name": "ON",
          "description": "Events located in Ontario",
+         "short": "Ontario",
          "polygon": "ca.on",
          "events": [
             1648,
@@ -107,6 +112,7 @@
          "idx": 5,
          "name": "QC",
          "description": "Events located in Quebec",
+         "short": "Quebec",
          "polygon": "ca.qc",
          "events": [
             1619,
@@ -118,6 +124,7 @@
          "idx": 6,
          "name": "East",
          "description": "Events located in the East of Canada",
+         "short": "Eastern Canada",
          "bounds": [
             {
                "n": 50,

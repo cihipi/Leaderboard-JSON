@@ -4,6 +4,7 @@
       "idx": 0,
       "name": "&#x1F9ED;",
       "description": "The most Northern, Eastern, Southern, and Western events in Japan",
+      "excludefromattendance": true,
       "bounds": [
         {
           "n": 46,
@@ -35,6 +36,7 @@
       "idx": 1,
       "name": "&#x672C;&#x5DDE;",
       "description": "Events located on Honshu",
+      "short": "Honshu",
       "bounds": [
         {
           "n": 41.5,
@@ -60,6 +62,7 @@
       "idx": 2,
       "name": "&#x4E5D;&#x5DDE;",
       "description": "Events located on Kyushu",
+      "short": "Kyushu",
       "bounds": [
         {
           "n": 34,
@@ -73,6 +76,7 @@
       "idx": 3,
       "name": "&#x56DB;&#x56FD;",
       "description": "Events located on Shikoku",
+      "short": "Shikoku",
       "bounds": [
         {
           "n": 34,
@@ -105,6 +109,7 @@
       "idx": 5,
       "name": "&#x540D;&#x53E4;&#x5C4B;&#x5E02;",
       "description": "Events located in Nagoya",
+      "short": "Nagoya",
       "bounds": [
         {
           "n": 35.8,
@@ -118,6 +123,7 @@
       "idx": 6,
       "name": "&#x6771;&#x4EAC;",
       "description": "Events located in Tokyo",
+      "short": "Tokyo",
       "bounds": [
         {
           "n": 36.8,

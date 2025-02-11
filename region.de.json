@@ -4,6 +4,7 @@
          "idx": 0,
          "name": "&#x1F9ED;",
          "description": "The most Northern, Eastern, Southern, and Western events in Germany",
+         "excludefromattendance": true,
          "bounds": [
             {
                "n": 55,
@@ -35,6 +36,7 @@
          "idx": 1,
          "name": "South",
          "description": "Events located in Southern Germany (Baden-Württemberg and Bayern)",
+         "short": "South Germany",
          "polygon": "de.south",
          "events": [
             1774,
@@ -67,6 +69,7 @@
          "idx": 2,
          "name": "East",
          "description": "Events located in Eastern Germany (Berlin, Brandenburg, Saxony, Saxony-Anhalt)",
+         "short": "Eastern Germany",
          "polygon": "de.east",
          "events": [
             1794,
@@ -80,6 +83,7 @@
          "idx": 3,
          "name": "Central",
          "description": "Events located in Central Germany (Hesse and Thuringia)",
+         "short": "Central Germany",
          "polygon": "de.central",
          "events": [
             1801,
@@ -96,6 +100,7 @@
          "idx": 4,
          "name": "North",
          "description": "Events located in Northern Germany (Bremen, Hamburg, Lower Saxony, Mecklenburg-Western Pomerania, Schleswig-Holstein)",
+         "short": "Northern Germany",
          "polygon": "de.north",
          "events": [
             1792,
@@ -114,6 +119,7 @@
          "idx": 5,
          "name": "West",
          "description": "Events located in Western Germany (North Rhine-Westphalia, Rhineland-Palatinate, Saarland)",
+         "short": "Western Germany",
          "polygon": "de.west",
          "events": [
             2086,

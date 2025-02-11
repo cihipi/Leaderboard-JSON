@@ -3,7 +3,8 @@
 		{
 			"idx":0,
 			"name":"&#x1F9ED;",
-			"description":"The most Northern, Eastern, Southern, and Western events in The Netherlands",			
+			"description":"The most Northern, Eastern, Southern, and Western events in The Netherlands",
+			"excludefromattendance": true,			
 			"bounds": [
 				{ "n":54, "s":53.21, "w":3.5, "e":7.5 },
 				{ "n":54, "s":50.7, "w":6.8, "e":7.5 },

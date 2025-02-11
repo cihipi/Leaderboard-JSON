@@ -4,6 +4,7 @@
          "idx": 0,
          "name": "&#x1F9ED;",
          "description": "The most northern, eastern, southern, and western parkruns",
+         "excludefromattendance": true,
          "bounds": [
             {
                "n": 61,
@@ -35,6 +36,7 @@
          "idx": 1,
          "name": "&#x1F697;",
          "description": "The most northern, eastern, southern, and western parkruns by road",
+         "excludefromattendance": true,
          "bounds": [
             {
                "n": 58.7,
@@ -71,7 +73,8 @@
       {
          "idx": 2,
          "name": "Lon",
-         "description": "Events located in Greater London",
+         "description": "Events located in Greater London - LonDONE Challenge",
+         "short": "London",
          "polygon": "uk.lon",
          "zoom": 9,
          "center": [
@@ -150,6 +153,7 @@
          "idx": 3,
          "name": "WAL",
          "description": "Events located in Wales",
+         "short": "Wales",
          "polygon": "uk.wal",
          "events": [
             9,
@@ -217,6 +221,7 @@
          "idx": 4,
          "name": "SCT",
          "description": "Events located in Scotland",
+         "short": "Scotland",
          "polygon": "uk.sct",
          "zoom": 5,
          "center": [
@@ -301,6 +306,7 @@
          "idx": 5,
          "name": "NI",
          "description": "Events located in Northern Ireland",
+         "short": "Northern Ireland",
          "polygon": "uk.ni",
          "zoom": 7,
          "center": [
@@ -441,7 +447,8 @@
             3362,
             3512,
             3561,
-            3601
+            3601,
+            3613
          ]
       },
       {
@@ -718,7 +725,8 @@
             3007,
             3341,
             3371,
-            3519
+            3519,
+            3602
          ]
       },
       {
@@ -1029,7 +1037,8 @@
             3165,
             3324,
             3446,
-            3503
+            3503,
+            3614
          ]
       }
    ],
