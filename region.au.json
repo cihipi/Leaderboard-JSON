@@ -36,7 +36,7 @@
          "idx": 1,
          "name": "ADL",
          "description": "Events located in Adelaide - Radelaidian Challenge",
-         "short" : "Adelaide",
+         "short": "Adelaide",
          "bounds": [
             {
                "n": -34.5,
@@ -56,7 +56,7 @@
          "idx": 2,
          "name": "BNE",
          "description": "Events located in Brisbane",
-         "short" : "Brisbane",
+         "short": "Brisbane",
          "bounds": [
             {
                "n": -26.95,
@@ -271,6 +271,7 @@
             2617,
             2654,
             2694,
+            2699,
             2707,
             2766,
             2826,
@@ -295,7 +296,8 @@
             3501,
             3516,
             3558,
-            3599
+            3599,
+            3625
          ],
          "excludeRegion": 6,
          "zoom": 5,
@@ -413,7 +415,6 @@
             1860,
             1867,
             1901,
-            1910,
             1911,
             1954,
             2028,
@@ -456,7 +457,9 @@
             3573,
             3596,
             3604,
-            3611
+            3611,
+            3623,
+            3629
          ],
          "excludeRegion": 7,
          "zoom": 4,
