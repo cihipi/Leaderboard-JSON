@@ -50,7 +50,8 @@
             3088,
             3358,
             3464,
-            3538
+            3538,
+            3642
          ]
       },
       {
@@ -71,13 +72,18 @@
          ]
       },
       {
-        "idx": 3,
-        "name": "SK &amp; MB",
-        "description": "Events located in Saskatchewan and Manitoba",
-        "short": "Saskatchewan &amp; Manitoba",
-        "bounds": [
-            { "n":60, "s":49, "w":-110, "e":-95.15}
-        ]
+         "idx": 3,
+         "name": "SK &amp; MB",
+         "description": "Events located in Saskatchewan and Manitoba",
+         "short": "Saskatchewan &amp; Manitoba",
+         "bounds": [
+            {
+               "n": 60,
+               "s": 49,
+               "w": -110,
+               "e": -95.15
+            }
+         ]
       },
       {
          "idx": 4,
