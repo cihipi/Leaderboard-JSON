@@ -96,6 +96,7 @@
       "idx": 4,
       "name": "&#x5927;&#x962A;&#x5E02;",
       "description": "Events located in Osaka, Kobe, and Kyoto",
+      "short": "Osaka Kobe Kyoto",
       "bounds": [
         {
           "n": 35.5,

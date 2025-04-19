@@ -16,6 +16,7 @@
 			"idx":1,
 			"name":"CPH",
 			"description":"Events located in Copenhagen",
+			"short":"Copenhagen",
 			"bounds": [
 				{ "n":56, "s":55.5, "w":12, "e":13 }
 			]

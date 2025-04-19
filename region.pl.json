@@ -37,6 +37,7 @@
          "name": "Lesser",
          "description": "Events in the Świętokrzyskie, Małopolskie, Lubelskie, Podkarpackie Voivodeships",
          "polygon": "pl.lesser",
+         "short": "Lesser",
          "events": [
             474,
             1105,
@@ -56,6 +57,7 @@
          "name": "Silesia",
          "description": "Events in the Lower Silesia, Opole Voivodeship, Silesian Voivodeship",
          "polygon": "pl.silesia",
+         "short": "Silesia",
          "events": [
             543,
             838,
@@ -80,6 +82,7 @@
          "name": "Greater",
          "description": "Events in the Greater Poland Voivodship &amp; Lubusz",
          "polygon": "pl.greater",
+         "short": "Greater",
          "events": [
             402,
             602,
@@ -110,6 +113,7 @@
          "name": "Pomerania",
          "description": "Events in Pomeranian Voivodship, Kuyavia-Pomerania, &amp; West Pomerania",
          "polygon": "pl.pomerania",
+         "short": "Pomerania",
          "events": [
             337,
             345,
@@ -141,6 +145,7 @@
          "name": "Central",
          "description": "Events in Łódź Voivodship and Masovian Voivodship",
          "polygon": "pl.central",
+         "short": "Central",
          "events": [
             400,
             472,
@@ -168,6 +173,7 @@
          "name": "NE",
          "description": "Events in Warmia-Masuria and Podlaskie Voivodship",
          "polygon": "pl.ne",
+         "short": "North East",
          "events": [
             1361,
             1450,

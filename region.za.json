@@ -233,6 +233,7 @@
          "idx": 5,
          "name": "North",
          "description": "Events located in Northern Cape, Free State and North West",
+         "short": "North",
          "polygon": "za.north",
          "events": [
             794,
@@ -276,6 +277,7 @@
          "idx": 6,
          "name": "NE",
          "description": "Events located in Limpopo and Mpumalanga",
+         "short": "Limpopo &amp; Mpumalanga",
          "bounds": [
             {
                "n": -22,

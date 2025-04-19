@@ -363,6 +363,7 @@
          "name": "SW",
          "description": "Events located in the South West",
          "polygon": "uk.sw",
+         "short": "South West",
          "zoom": 7,
          "center": [
             51.2,
@@ -460,6 +461,7 @@
          "name": "NW",
          "description": "Events located in the North West",
          "polygon": "uk.nw",
+         "short": "North West",
          "zoom": 7,
          "center": [
             54,
@@ -550,6 +552,7 @@
          "name": "WM",
          "description": "Events located in West Midlands",
          "polygon": "uk.wm",
+         "short": "West Midlands",
          "zoom": 7,
          "center": [
             52.4,
@@ -609,6 +612,7 @@
          "name": "NE",
          "description": "Events located in the North East",
          "polygon": "uk.ne",
+         "short": "North East",
          "zoom": 7,
          "center": [
             55,
@@ -659,6 +663,7 @@
          "name": "YH",
          "description": "Events located in Yorkshire and the Humber",
          "polygon": "uk.yh",
+         "short": "Yorkshire &amp; Humber",
          "zoom": 7,
          "center": [
             53.9,
@@ -737,6 +742,7 @@
          "name": "EM",
          "description": "Events located in the East Midlands",
          "polygon": "uk.em",
+         "short": "East Midlands",
          "zoom": 7,
          "center": [
             52.8,
@@ -809,6 +815,7 @@
          "name": "EA",
          "description": "Events located in East Anglia",
          "polygon": "uk.ea",
+         "short": "East Anglia",
          "zoom": 7,
          "center": [
             52.2,
@@ -922,6 +929,7 @@
          "name": "SE",
          "description": "Events located in the South East",
          "polygon": "uk.se",
+         "short": "South East",
          "zoom": 7,
          "center": [
             51.5,

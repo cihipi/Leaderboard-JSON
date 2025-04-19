@@ -36,7 +36,7 @@
          "idx": 1,
          "name": "South",
          "description": "Events located in Southern Germany (Baden-Württemberg and Bayern)",
-         "short": "South Germany",
+         "short": "Southern Germany",
          "polygon": "de.south",
          "events": [
             1774,

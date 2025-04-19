@@ -23,6 +23,7 @@
 			"idx":2,
 			"name":"Nord",
 			"description":"Events located in the North of Italy",
+			"short": "North",
 			"bounds": [
 				{ "n":47, "s":44.3, "w":7, "e":14 },
 				{ "n":44.3, "s":43.8, "w":11.5, "e":13.2 },
@@ -32,6 +33,7 @@
 			"idx":3,
 			"name":"Centro",
 			"description":"Events located in the Centre of Italy",
+			"short":"Centre",
 			"bounds": [
 				{ "n":44.3, "s":43.8, "w":9, "e":11.5 },
 				{ "n":43.8, "s":41.2, "w":10.4, "e":14 }
@@ -40,6 +42,7 @@
 			"idx":4,
 			"name":"Sud",
 			"description":"Events located in the South of Italy",
+			"short": "South",
 			"bounds": [
                 { "n":41.2, "s":38.3, "w":14, "e":18.5 }
 			]

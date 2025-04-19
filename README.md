@@ -40,6 +40,15 @@ You should see three windows
 - https://mapshaper.org/
 - https://www.abs.gov.au/websitedbs/censushome.nsf/home/factsheetsgeography/$file/Greater%20Capital%20City%20Statistical%20Area%20-%20Fact%20Sheet.pdf
 
+### Mapshaper
+- Import the multiple json files from hanshack
+- Open console
+- Combine the files to a single layer: merge-layers force target=*
+- Combine the polygons to a single polygon: dissolve2
+- Edit and remove any excess data eg coastline, rivers
+- Run the simplify command
+- Export to GeoJSON
+
 ## Other stats
 - https://mostevents.parq.run/
 - https://regionnaire.net/
@@ -51,11 +60,5 @@ You should see three windows
 - npm init (you need the git repo URL)
 - npm i puppeteer --save
 
-## Update
-- worldevents -> polygon
-- leaderboard (optional) -> switch do dev
-- nodejs
-- worldevents -> polygon and region definitions
-- leadboard -> generate list of runners
-- check
+
 

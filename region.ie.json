@@ -68,9 +68,9 @@
       {
          "idx": 2,
          "name": "SW",
-         "description": "Events in Southwest Ireland (counties Cork and Kerry)",
+         "description": "Events in South West Ireland (counties Cork and Kerry)",
          "polygon": "ie.sw",
-         "short": "Southwest",
+         "short": "South West",
          "events": [
             374,
             556,
@@ -93,9 +93,9 @@
       {
          "idx": 3,
          "name": "SE",
-         "description": "Events in Southeast Ireland (counties Carlow, Kilkenny, Waterford, Wexford)",
+         "description": "Events in South East Ireland (counties Carlow, Kilkenny, Waterford, Wexford)",
          "polygon": "ie.se",
-         "short": "Southeast",
+         "short": "South East",
          "events": [
             996,
             1179,
