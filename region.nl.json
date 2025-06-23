@@ -1,35 +1,90 @@
 {
-	"region":[
-		{
-			"idx":0,
-			"name":"&#x1F9ED;",
-			"description":"The most Northern, Eastern, Southern, and Western events in The Netherlands",
-			"excludefromattendance": true,			
-			"bounds": [
-				{ "n":54, "s":53.21, "w":3.5, "e":7.5 },
-				{ "n":54, "s":50.7, "w":6.8, "e":7.5 },
-				{ "n":50.85, "s":50.7, "w":3.5, "e":7.5 },
-				{ "n":54, "s":50.7, "w":3.5, "e":4.3 }
-			]
-		},{
-			"idx":1,
-			"name":"Noord",
-			"description":"Events located in North Holland Province",			
-			"short": "North",
-			"bounds": [
-				{ "n":53.2, "s":52.25, "w":4.5, "e":5.1 }
-			]
-		},{
-			"idx":2,
-			"name":"Zuid",
-			"description":"Events located in South Holland Province",	
-			"short": "South",		
-			"bounds": [
-				{ "n":52.25, "s":51.7, "w":4, "e":4.9 }
-			]
-		}
-	],
-	"name":"The Netherlands",
-	"id":64,
-	"githubURL":"https://github.com/cihipi/Leaderboard-JSON/"
+   "region": [
+      {
+         "idx": 0,
+         "name": "&#x1F9ED;",
+         "description": "The most Northern, Eastern, Southern, and Western events in The Netherlands",
+         "excludefromattendance": true,
+         "bounds": [
+            {
+               "n": 54,
+               "s": 53.21,
+               "w": 3.5,
+               "e": 7.5
+            },
+            {
+               "n": 54,
+               "s": 50.7,
+               "w": 6.8,
+               "e": 7.5
+            },
+            {
+               "n": 50.85,
+               "s": 50.7,
+               "w": 3.5,
+               "e": 7.5
+            },
+            {
+               "n": 54,
+               "s": 50.7,
+               "w": 3.5,
+               "e": 4.3
+            }
+         ]
+      },
+      {
+         "description": "Events located in North Region (holidays)",
+         "idx": 1,
+         "name": "Noord",
+         "short": "North",
+         "polygon": "nl.noord",
+         "events": [
+            2603,
+            2619,
+            2698,
+            3105,
+            3242,
+            3291,
+            3366,
+            3420,
+            3427,
+            3539
+         ]
+      },
+      {
+         "idx": 2,
+         "name": "Zuid",
+         "description": "Events located in South Holland Province",
+         "short": "South",
+         "bounds": [
+            {
+               "n": 52.25,
+               "s": 51.7,
+               "w": 4,
+               "e": 4.9
+            }
+         ]
+      },
+      {
+         "idx": 3,
+         "name": "Midden",
+         "description": "Events located in Central Region (holidays)",
+         "short": "Middle",
+         "polygon": "nl.midden",
+         "events": [
+            2604,
+            2643,
+            2660,
+            2684,
+            2955,
+            3064,
+            3412,
+            3495
+         ]
+      }
+   ],
+   "name": "The Netherlands",
+   "id": 64,
+   "githubURL": "https://github.com/cihipi/Leaderboard-JSON/",
+   "comment": "So these are provided by the government to divide the country into 3 regions for school holidays"
 }
