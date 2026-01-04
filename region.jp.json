@@ -28,7 +28,7 @@
           "n": 46,
           "s": 30,
           "w": 129.5,
-          "e": 131
+          "e": 130.34
         }
       ]
     },
@@ -123,16 +123,9 @@
     {
       "idx": 6,
       "name": "&#x6771;&#x4EAC;",
-      "description": "Events located in Tokyo",
-      "short": "Tokyo",
-      "bounds": [
-        {
-          "n": 36.8,
-          "s": 35,
-          "w": 139,
-          "e": 140.3
-        }
-      ]
+      "description": "Events located in Kanto Region",
+      "short": "Kanto",
+      "polygon": "jp.kanto"
     }
   ],
   "name": "Japan",
