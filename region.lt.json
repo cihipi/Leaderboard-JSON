@@ -1,0 +1,19 @@
+{
+	"region":[
+		{
+			"idx":0,
+			"name":"&#x1F9ED;",
+			"description":"The most Northern, Eastern, Southern, and Western event in Lithuania",
+			"excludefromattendance": true,
+			"bounds":[
+				{ "n":56.9, "s":55.9, "w":20.2, "e":26.2 },
+		                { "n":56.9, "s":53.4, "w":25.2, "e":26.2 },
+				{ "n":54.4, "s":53.4, "w":20.2, "e":26.2 },
+                		{ "n":56.9, "s":53.4, "w":20.2, "e":21.2 }
+			]
+		}
+	],
+	"name":"Lithuania",
+	"id":54,
+	"githubURL":"https://github.com/cihipi/Leaderboard-JSON/"
+}

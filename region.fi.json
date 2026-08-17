@@ -7,12 +7,21 @@
 			"excludefromattendance": true,
 			"bounds": [
 				{ "n":70, "s":65, "w":20, "e":30 },
-				{ "n":70, "s":60, "w":25.7, "e":30 },
+				{ "n":70, "s":60, "w":27, "e":30 },
 				{ "n":60.18, "s":60, "w":20, "e":30 },
 				{ "n":70, "s":60, "w":20, "e":21.78 }
 			]
 		}
 	],
+
+
+
+
+
+
+
+
+
 	"name":"Finland",
 	"id":30,
 	"githubURL":"https://github.com/cihipi/Leaderboard-JSON/"
