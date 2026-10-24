@@ -10,7 +10,7 @@
                "n": -10.38,
                "s": -12.38,
                "w": 111,
-               "e": 155.5
+               "e": 160
             },
             {
                "n": -10.38,
@@ -22,18 +22,50 @@
                "n": -43,
                "s": -45,
                "w": 111,
-               "e": 155.5
+               "e": 160
             },
             {
                "n": -10.38,
                "s": -45,
+               "w": 155,
+               "e": 160
+            }
+         ]
+      },
+      {
+         "idx": 1,
+         "name": "&#x1F697;",
+         "description": "The most northern, eastern, southern, and western parkruns by road",
+         "excludefromattendance": true,
+         "bounds": [
+            {
+               "n": -10.38,
+               "s": -12.38,
+               "w": 111,
+               "e": 155.5
+            },
+            {
+               "n": -10.38,
+               "s": -39.1,
+               "w": 111,
+               "e": 113.7
+            },
+            {
+               "n": -38.6,
+               "s": -39.1,
+               "w": 111,
+               "e": 155.5
+            },
+            {
+               "n": -10.38,
+               "s": -39.1,
                "w": 153.577,
                "e": 155.5
             }
          ]
       },
       {
-         "idx": 1,
+         "idx": 2,
          "name": "ADL",
          "description": "Events located in Adelaide - Radelaidian Challenge",
          "short": "Adelaide",
@@ -53,7 +85,7 @@
          ]
       },
       {
-         "idx": 2,
+         "idx": 3,
          "name": "BNE",
          "description": "Events located in Brisbane",
          "short": "Brisbane",
@@ -113,7 +145,7 @@
          ]
       },
       {
-         "idx": 3,
+         "idx": 4,
          "name": "MEL",
          "description": "Events located in Melbourne",
          "short": "Melbourne",
@@ -133,7 +165,7 @@
          ]
       },
       {
-         "idx": 4,
+         "idx": 5,
          "name": "PER",
          "description": "Events located in Perth - Perthfection Challenge",
          "short": "Perth",
@@ -179,7 +211,7 @@
          ]
       },
       {
-         "idx": 5,
+         "idx": 6,
          "name": "SYD",
          "description": "Events located in Sydney - Raefarer Challenge",
          "short": "Sydney",
@@ -193,7 +225,7 @@
          ]
       },
       {
-         "idx": 6,
+         "idx": 7,
          "name": "ACT",
          "description": "Events located in the ACT",
          "short": "ACT",
@@ -217,7 +249,7 @@
          ]
       },
       {
-         "idx": 7,
+         "idx": 8,
          "name": "NSW",
          "description": "Events located in NSW",
          "short": "NSW",
@@ -356,7 +388,7 @@
          ]
       },
       {
-         "idx": 8,
+         "idx": 9,
          "name": "NT",
          "description": "Events located in the Northern Territory",
          "short": "Northern Territory",
@@ -370,7 +402,7 @@
          ]
       },
       {
-         "idx": 9,
+         "idx": 10,
          "name": "QLD",
          "description": "Events located in Queensland",
          "short": "Queensland",
@@ -525,7 +557,7 @@
          ]
       },
       {
-         "idx": 10,
+         "idx": 11,
          "name": "SA",
          "description": "Events located in South Australia",
          "short": "South Australia",
@@ -539,7 +571,7 @@
          ]
       },
       {
-         "idx": 11,
+         "idx": 12,
          "name": "TAS",
          "description": "Events located in Tasmania",
          "short": "Tasmania",
@@ -553,7 +585,7 @@
          ]
       },
       {
-         "idx": 12,
+         "idx": 13,
          "name": "VIC",
          "description": "Events located in Victoria",
          "short": "Victoria",
@@ -695,7 +727,7 @@
          ]
       },
       {
-         "idx": 13,
+         "idx": 14,
          "name": "WA",
          "description": "Events located in Western Australia",
          "short": "Western Australia",
