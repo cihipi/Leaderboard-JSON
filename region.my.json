@@ -1,5 +1,17 @@
 {
 	"region":[
+		{
+			"idx":0,
+			"name":"&#x1F9ED;",
+			"description":"The most Northern, Eastern, Southern, and Western event in Malaysia",
+			"excludefromattendance": true,
+			"bounds": [
+				{ "n": 3.31622, "s": 3.29622, "w": 101.425332, "e": 101.445332 },
+				{ "n": 2.926852, "s": 2.906852, "w": 101.688056, "e": 101.708056 },
+				{ "n": 3.31622, "s": 3.29622, "w": 101.425332, "e": 101.445332 },
+				{ "n": 3.132979, "s": 3.112979, "w": 101.723362, "e": 101.743362 }
+			]
+		}
 	],
 	"name":"Malaysia",
 	"id":57,
