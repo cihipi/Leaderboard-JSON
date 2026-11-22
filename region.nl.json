@@ -59,13 +59,9 @@
          "name": "Zuid",
          "description": "Events located in South Holland Province",
          "short": "South",
-         "bounds": [
-            {
-               "n": 52.25,
-               "s": 51.7,
-               "w": 4,
-               "e": 4.9
-            }
+         "polygon": "nl.zuid",
+         "events": [
+            2604
          ]
       },
       {
